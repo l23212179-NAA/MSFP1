@@ -4,7 +4,7 @@
 
 ## Información de la estudiante
 
-Nicole Arredondo Arevalo \ 23212179; L23212179@tijuana.tecnm.mx
+Nicole Arredondo Arevalo \ 23212179; L23212179@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
